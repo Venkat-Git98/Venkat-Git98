@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile. I’m a Machine Learning Engineer with experience building end-to-end AI systems that combine deep learning, natural language processing, and cloud-native infrastructure. I enjoy working on real-world problems that require not just strong models, but also reliable and scalable deployment strategies.
 
-Currently, I’m working at **ScriptChain Health**, where I lead the development of AI-driven solutions for healthcare applications, including predictive modeling for hospital readmissions. My work integrates graph neural networks, temporal models, and large language models (LLMs), with a strong focus on performance, compliance, and interpretability.
+Currently, I’m working at **ScriptChain Health**, where I lead the development of AI-driven solutions for healthcare applications, including predictive modeling for hospital readmissions. My work integrates neural networksand large language models (LLMs), with a strong focus on performance, compliance, and interpretability.
 
 In parallel, I serve as a **Data Consultant** at The George Washington University, supporting faculty and students across disciplines in applying statistical methods, ML models, and research best practices using tools like R, Python, and Tableau.
 
@@ -30,9 +30,6 @@ In parallel, I serve as a **Data Consultant** at The George Washington Universit
 ---
 
 ## Selected Projects
-
-- **Healthcare Readmission Prediction Model**  
-  Built a hybrid deep learning model combining temporal LLMs and GNNs, deployed using federated learning architecture.
 
 - **Building Code Compliance AI**  
   Developed an NLP-based assistant for resolving building regulation queries using RAG and OpenAI models.
