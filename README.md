@@ -38,6 +38,7 @@ In parallel, I serve as a **Data Consultant** at The George Washington Universit
   Fine-tuned transformer models to distinguish between human and AI-generated text with high accuracy.
 
 ---
+![Scan_20250116 (2)](https://github.com/user-attachments/assets/5cf82807-9955-44e8-907f-8965f7ed862f)
 
 ## Tools & Technologies
 
